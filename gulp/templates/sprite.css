@@ -5,6 +5,6 @@
         width: {{width.outer}}px;
         height: {{height.outer}}px;
         background-position: {{position.relative.xy}};
-        background-image: url('/assets/images/sprites/{{{sprite}}}');
+        background-image: url('../../assets/images/sprites/{{{sprite}}}');
     }
 {{/shapes}}
